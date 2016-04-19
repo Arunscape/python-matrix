@@ -1,3 +1,4 @@
+#this code wasn't written by me, I found it here: http://stackoverflow.com/questions/566746/how-to-get-console-window-width-in-python
 def getTerminalSize():
     import os
     env = os.environ
